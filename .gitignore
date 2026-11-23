@@ -1,0 +1,16 @@
+# 编译产物（不传二进制，需要的话去 Releases）
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+
+# 运行时产物
+dfy-state.json
+switch-selftest.txt
+*.log
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
